@@ -6,7 +6,7 @@
   <img alt="license" src="https://img.shields.io/badge/license-Apache--2.0-green">
 </p>
 
-> [维思勤](https://www.vastgin.com）即将推出的低代码平台 —— 通过可视化配置与元数据驱动的方式，让业务系统「搭」出来而不是「写」出来。
+> [维思勤](https://www.vastgin.com) 即将推出的低代码平台 —— 通过可视化配置与元数据驱动的方式，让业务系统「搭」出来而不是「写」出来。
 
 ## 📖 目录
 
